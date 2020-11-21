@@ -3,7 +3,7 @@
 
 ### Abstract :
 
-_**This project tries to predict shared bike demand after the ongoing quarantine situation ends using multiple linear regression model.**_
+_**This project tries to predict the bike demand after the ongoing quarantine situation ends using multiple linear regression model.**_
 
 ### Business Objective :
 
